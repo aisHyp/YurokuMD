@@ -1,0 +1,23 @@
+{
+  "users": {
+    "62895639043495@s.whatsapp.net": {
+      "exp": 0,
+      "level": 0,
+      "warn": 0,
+      "registered": true
+    },
+    "62895393336779@s.whatsapp.net": {
+      "exp": 0,
+      "level": 0,
+      "warn": 0,
+      "registered": true
+    }
+  },
+  "chats": {},
+  "game": {},
+  "database": {},
+  "settings": {},
+  "setting": {},
+  "others": {},
+  "sticker": {}
+}

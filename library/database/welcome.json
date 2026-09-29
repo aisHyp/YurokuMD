@@ -1,0 +1,8 @@
+{
+  "120363429849317281@g.us": {
+    "welcome": true,
+    "left": true,
+    "welcomeText": "Halo @user 👋\nSelamat datang di *@group*!\nKamu member ke-*@count*. Semoga betah ya~",
+    "leftText": "Yah, @user telah keluar dari *@group* 👋\nSampai jumpa lagi!"
+  }
+}

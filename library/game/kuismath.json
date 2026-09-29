@@ -1,0 +1,1630 @@
+{
+  "matematika": {
+    "easy": [
+      {
+        "q": "5 + 7 = ?",
+        "a": "12"
+      },
+      {
+        "q": "9 - 4 = ?",
+        "a": "5"
+      },
+      {
+        "q": "6 × 3 = ?",
+        "a": "18"
+      },
+      {
+        "q": "15 ÷ 3 = ?",
+        "a": "5"
+      },
+      {
+        "q": "8 + 12 = ?",
+        "a": "20"
+      },
+      {
+        "q": "25 - 13 = ?",
+        "a": "12"
+      },
+      {
+        "q": "4 × 5 = ?",
+        "a": "20"
+      },
+      {
+        "q": "36 ÷ 6 = ?",
+        "a": "6"
+      },
+      {
+        "q": "11 + 9 = ?",
+        "a": "20"
+      },
+      {
+        "q": "17 - 8 = ?",
+        "a": "9"
+      },
+      {
+        "q": "7 × 8 = ?",
+        "a": "56"
+      },
+      {
+        "q": "45 ÷ 9 = ?",
+        "a": "5"
+      },
+      {
+        "q": "13 + 17 = ?",
+        "a": "30"
+      },
+      {
+        "q": "22 - 14 = ?",
+        "a": "8"
+      },
+      {
+        "q": "9 × 9 = ?",
+        "a": "81"
+      }
+    ],
+    "normal": [
+      {
+        "q": "123 + 456 = ?",
+        "a": "579"
+      },
+      {
+        "q": "789 - 234 = ?",
+        "a": "555"
+      },
+      {
+        "q": "12 × 13 = ?",
+        "a": "156"
+      },
+      {
+        "q": "144 ÷ 12 = ?",
+        "a": "12"
+      },
+      {
+        "q": "25% dari 200 = ?",
+        "a": "50"
+      },
+      {
+        "q": "3/4 + 1/2 = ?",
+        "a": "1.25"
+      },
+      {
+        "q": "15² = ?",
+        "a": "225"
+      },
+      {
+        "q": "√169 = ?",
+        "a": "13"
+      },
+      {
+        "q": "5 × (3 + 4) = ?",
+        "a": "35"
+      },
+      {
+        "q": "1000 - 567 = ?",
+        "a": "433"
+      }
+    ],
+    "hard": [
+      {
+        "q": "Jika 3x + 5 = 20, maka x = ?",
+        "a": "5"
+      },
+      {
+        "q": "Luas lingkaran dengan jari-jari 7 cm? (π=22/7)",
+        "a": "154"
+      },
+      {
+        "q": "Sin 30° = ?",
+        "a": "0.5"
+      },
+      {
+        "q": "Cos 60° = ?",
+        "a": "0.5"
+      },
+      {
+        "q": "Turunan dari 3x² + 2x - 5?",
+        "a": "6x + 2"
+      },
+      {
+        "q": "Integral dari 2x dx?",
+        "a": "x²"
+      },
+      {
+        "q": "Log 100 = ?",
+        "a": "2"
+      },
+      {
+        "q": "2³ + 3² = ?",
+        "a": "17"
+      },
+      {
+        "q": "Akar kuadrat dari 144?",
+        "a": "12"
+      },
+      {
+        "q": "Hasil dari 7! (7 faktorial)?",
+        "a": "5040"
+      },
+      {
+        "q": "Jika f(x) = 2x² + 3, berapa f(3)?",
+        "a": "21"
+      },
+      {
+        "q": "Nilai dari sin 90°?",
+        "a": "1"
+      },
+      {
+        "q": "Berapa sisi segitiga siku-siku dengan sisi 3 dan 4?",
+        "a": "5"
+      },
+      {
+        "q": "Volume kubus dengan sisi 5 cm?",
+        "a": "125"
+      },
+      {
+        "q": "Luas segitiga dengan alas 10 dan tinggi 8?",
+        "a": "40"
+      },
+      {
+        "q": "15% dari 200 = ?",
+        "a": "30"
+      },
+      {
+        "q": "Hasil dari 2⁵?",
+        "a": "32"
+      },
+      {
+        "q": "Hasil dari √81 + √16?",
+        "a": "13"
+      },
+      {
+        "q": "Jika 2x - 7 = 9, berapa x?",
+        "a": "8"
+      },
+      {
+        "q": "Berapa hasil dari 8 × 8 ÷ 4?",
+        "a": "16"
+      },
+      {
+        "q": "Keliling lingkaran dengan jari-jari 7 cm? (π=22/7)",
+        "a": "44"
+      },
+      {
+        "q": "Hasil dari 125 ÷ 5 × 3?",
+        "a": "75"
+      },
+      {
+        "q": "Berapa hasil dari 3⁴?",
+        "a": "81"
+      },
+      {
+        "q": "Jika a = 5, b = 3, berapa a² - b²?",
+        "a": "16"
+      },
+      {
+        "q": "Hasil dari (8 + 4) × 3 - 10?",
+        "a": "26"
+      }
+    ]
+  },
+  "bahasa": {
+    "easy": [
+      {
+        "q": "Sinonim dari 'cantik'?",
+        "a": "indah"
+      },
+      {
+        "q": "Antonim dari 'besar'?",
+        "a": "kecil"
+      },
+      {
+        "q": "Ibu kota Indonesia?",
+        "a": "jakarta"
+      },
+      {
+        "q": "Penulis novel 'Sang Pemimpi'?",
+        "a": "andrea hirata"
+      },
+      {
+        "q": "Siapa pencipta lagu Indonesia Raya?",
+        "a": "wage rudolf supratman"
+      },
+      {
+        "q": "Bahasa resmi Indonesia?",
+        "a": "bahasa indonesia"
+      },
+      {
+        "q": "Presiden pertama Indonesia?",
+        "a": "soekarno"
+      },
+      {
+        "q": "Mata uang Indonesia?",
+        "a": "rupiah"
+      },
+      {
+        "q": "Lagu kebangsaan Indonesia?",
+        "a": "indonesia raya"
+      },
+      {
+        "q": "Pulau terbesar di Indonesia?",
+        "a": "papua"
+      }
+    ],
+    "normal": [
+      {
+        "q": "Apa arti kata 'filsafat'?",
+        "a": "ilmu pengetahuan"
+      },
+      {
+        "q": "Siapa penulis 'Habis Gelap Terbitlah Terang'?",
+        "a": "r.a kartini"
+      },
+      {
+        "q": "Apa nama pahlawan dari Aceh?",
+        "a": "cut nyak dien"
+      },
+      {
+        "q": "Siapa sastrawan 'Aku'?",
+        "a": "chairil anwar"
+      },
+      {
+        "q": "Penulis 'Bumi Manusia'?",
+        "a": "pramoedya ananta toer"
+      },
+      {
+        "q": "Apa arti kata 'ephemeral'?",
+        "a": "sementara"
+      },
+      {
+        "q": "Sinonim dari 'ambiguitas'?",
+        "a": "ketidakjelasan"
+      },
+      {
+        "q": "Apa yang dimaksud dengan 'pleonasme'?",
+        "a": "pemborosan kata"
+      },
+      {
+        "q": "Siapa penulis 'Laskar Pelangi'?",
+        "a": "andrea hirata"
+      },
+      {
+        "q": "Apa arti ungkapan 'buah bibir'?",
+        "a": "bahan pembicaraan"
+      },
+      {
+        "q": "Siapa pengarang 'Siti Nurbaya'?",
+        "a": "marah rusli"
+      },
+      {
+        "q": "Apa arti kata 'kontemplasi'?",
+        "a": "perenungan"
+      },
+      {
+        "q": "Sinonim dari 'relevan'?",
+        "a": "sesuai"
+      },
+      {
+        "q": "Apa yang dimaksud dengan 'metafora'?",
+        "a": "majas perbandingan"
+      },
+      {
+        "q": "Siapa penulis 'Atheis'?",
+        "a": "achdiat karta mihardja"
+      }
+    ],
+    "hard": [
+      {
+        "q": "Apa yang dimaksud dengan metafora?",
+        "a": "perumpamaan"
+      },
+      {
+        "q": "Siapa penulis novel 'Negeri 5 Menara'?",
+        "a": "ahmad fuadi"
+      },
+      {
+        "q": "Apa arti ungkapan 'besar pasak daripada tiang'?",
+        "a": "pengeluaran lebih besar dari pemasukan"
+      },
+      {
+        "q": "Siapa penyair 'Padamu Jua'?",
+        "a": "amir hamzah"
+      },
+      {
+        "q": "Apa arti kata 'solipsisme'?",
+        "a": "filsafat tentang diri sendiri"
+      },
+      {
+        "q": "Siapa penulis 'Tetralogi Buru'?",
+        "a": "pramoedya ananta toer"
+      },
+      {
+        "q": "Apa yang dimaksud dengan 'anakronisme'?",
+        "a": "ketidaksesuaian waktu"
+      },
+      {
+        "q": "Siapa sastrawan angkatan 45?",
+        "a": "chairil anwar"
+      },
+      {
+        "q": "Apa arti 'sesanti' dalam bahasa Jawa?",
+        "a": "pepatah"
+      },
+      {
+        "q": "Siapa penulis 'Max Havelaar'?",
+        "a": "multatuli"
+      },
+      {
+        "q": "Apa yang dimaksud dengan 'alegori'?",
+        "a": "kiasan"
+      },
+      {
+        "q": "Siapa pengarang 'Robohnya Surau Kami'?",
+        "a": "a.a navis"
+      },
+      {
+        "q": "Apa arti kata 'sinkretisme'?",
+        "a": "pencampuran ajaran"
+      },
+      {
+        "q": "Siapa penulis 'Belenggu'?",
+        "a": "armijn pane"
+      },
+      {
+        "q": "Apa yang dimaksud dengan 'hiperbola'?",
+        "a": "kata berlebihan"
+      },
+      {
+        "q": "Siapa pujangga Melayu terkenal?",
+        "a": "raja ali haji"
+      },
+      {
+        "q": "Apa arti 'mitos' menurut antropologi?",
+        "a": "cerita suci"
+      },
+      {
+        "q": "Siapa penulis 'Arok Dedes'?",
+        "a": "pramoedya ananta toer"
+      },
+      {
+        "q": "Apa arti kata 'epistemologi'?",
+        "a": "teori pengetahuan"
+      },
+      {
+        "q": "Siapa pengarang 'Ziarah'?",
+        "a": "iwan simatupang"
+      },
+      {
+        "q": "Apa yang dimaksud dengan 'personifikasi'?",
+        "a": "majas pengandaian"
+      },
+      {
+        "q": "Siapa penulis 'Ronggeng Dukuh Paruk'?",
+        "a": "ahmad tohari"
+      },
+      {
+        "q": "Apa arti 'litotes'?",
+        "a": "merendahkan diri"
+      },
+      {
+        "q": "Siapa sastrawan perempuan Indonesia pertama?",
+        "a": "selasih"
+      }
+    ]
+  },
+  "geografi": {
+    "easy": [
+      {
+        "q": "Ibu kota Amerika Serikat?",
+        "a": "washington dc"
+      },
+      {
+        "q": "Ibu kota Inggris?",
+        "a": "london"
+      },
+      {
+        "q": "Ibu kota Jepang?",
+        "a": "tokyo"
+      },
+      {
+        "q": "Ibu kota Australia?",
+        "a": "canberra"
+      },
+      {
+        "q": "Ibu kota China?",
+        "a": "beijing"
+      },
+      {
+        "q": "Ibu kota Prancis?",
+        "a": "paris"
+      },
+      {
+        "q": "Ibu kota Jerman?",
+        "a": "berlin"
+      },
+      {
+        "q": "Ibu kota Italia?",
+        "a": "roma"
+      },
+      {
+        "q": "Ibu kota Rusia?",
+        "a": "moskow"
+      },
+      {
+        "q": "Ibu kota Brazil?",
+        "a": "brasilia"
+      },
+      {
+        "q": "Ibu kota India?",
+        "a": "new delhi"
+      },
+      {
+        "q": "Ibu kota Mesir?",
+        "a": "kairo"
+      },
+      {
+        "q": "Ibu kota Thailand?",
+        "a": "bangkok"
+      },
+      {
+        "q": "Ibu kota Malaysia?",
+        "a": "kuala lumpur"
+      },
+      {
+        "q": "Ibu kota Singapura?",
+        "a": "singapura"
+      },
+      {
+        "q": "Ibu kota Filipina?",
+        "a": "manila"
+      },
+      {
+        "q": "Ibu kota Vietnam?",
+        "a": "hanoi"
+      },
+      {
+        "q": "Ibu kota Myanmar?",
+        "a": "naypyidaw"
+      },
+      {
+        "q": "Ibu kota Kamboja?",
+        "a": "phnom penh"
+      },
+      {
+        "q": "Ibu kota Laos?",
+        "a": "vientiane"
+      }
+    ],
+    "normal": [
+      {
+        "q": "Negara terluas di dunia?",
+        "a": "rusia"
+      },
+      {
+        "q": "Samudera terbesar?",
+        "a": "pasifik"
+      },
+      {
+        "q": "Gunung tertinggi di dunia?",
+        "a": "everest"
+      },
+      {
+        "q": "Sungai terpanjang di dunia?",
+        "a": "nil"
+      },
+      {
+        "q": "Gurun terbesar di dunia?",
+        "a": "sahara"
+      },
+      {
+        "q": "Danau terbesar di dunia?",
+        "a": "kaspia"
+      },
+      {
+        "q": "Pulau terbesar di dunia?",
+        "a": "greenland"
+      },
+      {
+        "q": "Benua terbesar di dunia?",
+        "a": "asia"
+      },
+      {
+        "q": "Negara dengan populasi terbanyak?",
+        "a": "china"
+      },
+      {
+        "q": "Selat tersibuk di dunia?",
+        "a": "malaka"
+      },
+      {
+        "q": "Laut terluas di dunia?",
+        "a": "laut cina selatan"
+      },
+      {
+        "q": "Air terjun tertinggi di dunia?",
+        "a": "angel"
+      },
+      {
+        "q": "Palung terdalam di dunia?",
+        "a": "mariana"
+      },
+      {
+        "q": "Gunung tertinggi di Indonesia?",
+        "a": "carstensz"
+      },
+      {
+        "q": "Sungai terpanjang di Indonesia?",
+        "a": "kapuas"
+      },
+      {
+        "q": "Danau terbesar di Indonesia?",
+        "a": "toba"
+      },
+      {
+        "q": "Pulau terpadat di dunia?",
+        "a": "jawa"
+      },
+      {
+        "q": "Negara terkecil di dunia?",
+        "a": "vatican"
+      },
+      {
+        "q": "Benua terdingin di dunia?",
+        "a": "antartika"
+      },
+      {
+        "q": "Negara dengan pulau terbanyak?",
+        "a": "sweden"
+      }
+    ],
+    "hard": [
+      {
+        "q": "Ibu kota Azerbaijan?",
+        "a": "baku"
+      },
+      {
+        "q": "Ibu kota Kazakhstan?",
+        "a": "astana"
+      },
+      {
+        "q": "Ibu kota Uzbekistan?",
+        "a": "tashkent"
+      },
+      {
+        "q": "Ibu kota Turkmenistan?",
+        "a": "ashgabat"
+      },
+      {
+        "q": "Ibu kota Kyrgyzstan?",
+        "a": "bishkek"
+      },
+      {
+        "q": "Ibu kota Tajikistan?",
+        "a": "dushanbe"
+      },
+      {
+        "q": "Ibu kota Mongolia?",
+        "a": "ulaanbaatar"
+      },
+      {
+        "q": "Ibu kota Afghanistan?",
+        "a": "kabul"
+      },
+      {
+        "q": "Ibu kota Pakistan?",
+        "a": "islamabad"
+      },
+      {
+        "q": "Ibu kota Bangladesh?",
+        "a": "dhaka"
+      },
+      {
+        "q": "Ibu kota Sri Lanka?",
+        "a": "colombo"
+      },
+      {
+        "q": "Ibu kota Nepal?",
+        "a": "kathmandu"
+      },
+      {
+        "q": "Ibu kota Bhutan?",
+        "a": "thimphu"
+      },
+      {
+        "q": "Ibu kota Myanmar?",
+        "a": "naypyidaw"
+      },
+      {
+        "q": "Ibu kota Laos?",
+        "a": "vientiane"
+      },
+      {
+        "q": "Ibu kota Kamboja?",
+        "a": "phnom penh"
+      },
+      {
+        "q": "Ibu kota Brunei?",
+        "a": "bandar seri begawan"
+      },
+      {
+        "q": "Ibu kota Timor Leste?",
+        "a": "dili"
+      },
+      {
+        "q": "Ibu kota Papua Nugini?",
+        "a": "port moresby"
+      },
+      {
+        "q": "Ibu kota Fiji?",
+        "a": "suva"
+      },
+      {
+        "q": "Ibu kota Selandia Baru?",
+        "a": "wellington"
+      },
+      {
+        "q": "Ibu kota Swiss?",
+        "a": "bern"
+      },
+      {
+        "q": "Ibu kota Austria?",
+        "a": "wina"
+      },
+      {
+        "q": "Ibu kota Belgia?",
+        "a": "brussels"
+      },
+      {
+        "q": "Ibu kota Belanda?",
+        "a": "amsterdam"
+      },
+      {
+        "q": "Ibu kota Denmark?",
+        "a": "kopenhagen"
+      },
+      {
+        "q": "Ibu kota Swedia?",
+        "a": "stockholm"
+      },
+      {
+        "q": "Ibu kota Norwegia?",
+        "a": "oslo"
+      },
+      {
+        "q": "Ibu kota Finlandia?",
+        "a": "helsinki"
+      },
+      {
+        "q": "Ibu kota Islandia?",
+        "a": "reykjavik"
+      },
+      {
+        "q": "Ibu kota Irlandia?",
+        "a": "dublin"
+      },
+      {
+        "q": "Ibu kota Portugal?",
+        "a": "lisbon"
+      },
+      {
+        "q": "Ibu kota Spanyol?",
+        "a": "madrid"
+      },
+      {
+        "q": "Ibu kota Yunani?",
+        "a": "athena"
+      },
+      {
+        "q": "Ibu kota Polandia?",
+        "a": "warsawa"
+      },
+      {
+        "q": "Ibu kota Hongaria?",
+        "a": "budapest"
+      },
+      {
+        "q": "Ibu kota Ceko?",
+        "a": "praha"
+      },
+      {
+        "q": "Ibu kota Slowakia?",
+        "a": "bratislava"
+      },
+      {
+        "q": "Ibu kota Rumania?",
+        "a": "bukares"
+      },
+      {
+        "q": "Ibu kota Bulgaria?",
+        "a": "sofia"
+      },
+      {
+        "q": "Ibu kota Serbia?",
+        "a": "beograd"
+      },
+      {
+        "q": "Ibu kota Kroasia?",
+        "a": "zagreb"
+      },
+      {
+        "q": "Ibu kota Bosnia?",
+        "a": "sarajevo"
+      },
+      {
+        "q": "Ibu kota Albania?",
+        "a": "tirana"
+      },
+      {
+        "q": "Ibu kota Makedonia Utara?",
+        "a": "skopje"
+      },
+      {
+        "q": "Ibu kota Montenegro?",
+        "a": "podgorica"
+      },
+      {
+        "q": "Ibu kota Slovenia?",
+        "a": "ljubljana"
+      },
+      {
+        "q": "Ibu kota Estonia?",
+        "a": "tallinn"
+      },
+      {
+        "q": "Ibu kota Latvia?",
+        "a": "riga"
+      },
+      {
+        "q": "Ibu kota Lituania?",
+        "a": "vilnius"
+      },
+      {
+        "q": "Ibu kota Belarus?",
+        "a": "minsk"
+      },
+      {
+        "q": "Ibu kota Ukraina?",
+        "a": "kyiv"
+      },
+      {
+        "q": "Ibu kota Georgia?",
+        "a": "tbilisi"
+      },
+      {
+        "q": "Ibu kota Armenia?",
+        "a": "yerevan"
+      },
+      {
+        "q": "Ibu kota Siprus?",
+        "a": "nicosia"
+      }
+    ]
+  },
+  "sejarah": {
+    "easy": [
+      {
+        "q": "Presiden pertama Indonesia?",
+        "a": "soekarno"
+      },
+      {
+        "q": "Tanggal kemerdekaan Indonesia?",
+        "a": "17 agustus 1945"
+      },
+      {
+        "q": "Siapa penemu bola lampu?",
+        "a": "thomas alva edison"
+      },
+      {
+        "q": "Siapa penemu telepon?",
+        "a": "alexander graham bell"
+      },
+      {
+        "q": "Siapa penemu pesawat terbang?",
+        "a": "wright bersaudara"
+      },
+      {
+        "q": "Perang dunia kedua berakhir tahun?",
+        "a": "1945"
+      },
+      {
+        "q": "Siapa presiden Indonesia sekarang?",
+        "a": "joko widodo"
+      },
+      {
+        "q": "Siapa wakil presiden pertama?",
+        "a": "mohammad hatta"
+      },
+      {
+        "q": "Siapa pahlawan nasional dari Bali?",
+        "a": "i gusti ngurah rai"
+      },
+      {
+        "q": "Siapa pahlawan nasional dari Jawa Barat?",
+        "a": "kartini"
+      }
+    ],
+    "normal": [
+      {
+        "q": "Tahun berapa peristiwa G30S/PKI?",
+        "a": "1965"
+      },
+      {
+        "q": "Siapa proklamator kemerdekaan Indonesia?",
+        "a": "soekarno dan hatta"
+      },
+      {
+        "q": "Kapan BPUPKI dibentuk?",
+        "a": "1945"
+      },
+      {
+        "q": "Siapa ketua PPKI?",
+        "a": "soekarno"
+      },
+      {
+        "q": "Peristiwa Bandung Lautan Api tahun?",
+        "a": "1946"
+      },
+      {
+        "q": "Siapa pahlawan yang dijuluki 'Ayam Jantan dari Timur'?",
+        "a": "sultan hasanuddin"
+      },
+      {
+        "q": "Apa nama perjanjian antara Indonesia dan Belanda tahun 1949?",
+        "a": "kmb"
+      },
+      {
+        "q": "Siapa presiden kedua Indonesia?",
+        "a": "soeharto"
+      },
+      {
+        "q": "Tahun berapa Indonesia masuk PBB?",
+        "a": "1950"
+      },
+      {
+        "q": "Siapa pahlawan wanita dari Aceh?",
+        "a": "cut nyak dien"
+      },
+      {
+        "q": "Apa nama kerajaan Hindu tertua di Indonesia?",
+        "a": "kutai"
+      },
+      {
+        "q": "Siapa raja terkenal dari Majapahit?",
+        "a": "hayam wuruk"
+      },
+      {
+        "q": "Apa nama perang melawan Belanda di Jawa tahun 1825-1830?",
+        "a": "diponegoro"
+      },
+      {
+        "q": "Siapa pendiri Kerajaan Sriwijaya?",
+        "a": "dapunta hyang"
+      },
+      {
+        "q": "Tahun berapa VOC didirikan?",
+        "a": "1602"
+      }
+    ],
+    "hard": [
+      {
+        "q": "Siapa perdana menteri pertama Indonesia?",
+        "a": "sutan sjahrir"
+      },
+      {
+        "q": "Tahun berapa Konferensi Asia Afrika?",
+        "a": "1955"
+      },
+      {
+        "q": "Siapa penandatangan naskah proklamasi selain Soekarno-Hatta?",
+        "a": "soekarni"
+      },
+      {
+        "q": "Kapan Indonesia masuk PBB?",
+        "a": "1950"
+      },
+      {
+        "q": "Siapa pahlawan yang dijuluki 'Singa Karangasem'?",
+        "a": "i gusti ketut jelantik"
+      },
+      {
+        "q": "Apa nama perjanjian yang mengakhiri Perang Diponegoro?",
+        "a": "magelang"
+      },
+      {
+        "q": "Siapa gubernur jenderal VOC pertama?",
+        "a": "pieter both"
+      },
+      {
+        "q": "Tahun berapa Kerajaan Majapahit runtuh?",
+        "a": "1478"
+      },
+      {
+        "q": "Siapa pahlawan nasional dari Sulawesi Selatan?",
+        "a": "andi depu"
+      },
+      {
+        "q": "Apa nama perang di Maluku melawan Belanda tahun 1817?",
+        "a": "patimura"
+      },
+      {
+        "q": "Siapa raja terakhir Kerajaan Singhasari?",
+        "a": "kertanegara"
+      },
+      {
+        "q": "Tahun berapa Perang Padri berakhir?",
+        "a": "1837"
+      },
+      {
+        "q": "Siapa pahlawan nasional dari Kalimantan Selatan?",
+        "a": "pangeran antasari"
+      },
+      {
+        "q": "Apa nama perjanjian antara Inggris dan Belanda tahun 1824?",
+        "a": "london"
+      },
+      {
+        "q": "Siapa presiden pertama RI yang menjabat setelah Soekarno?",
+        "a": "soeharto"
+      },
+      {
+        "q": "Tahun berapa Tanam Paksa dihapuskan?",
+        "a": "1870"
+      },
+      {
+        "q": "Siapa pahlawan nasional dari Papua?",
+        "a": "frans kaisiepo"
+      },
+      {
+        "q": "Apa nama organisasi pergerakan nasional pertama di Indonesia?",
+        "a": "boedi oetomo"
+      },
+      {
+        "q": "Siapa ketua BPUPKI?",
+        "a": "dr. radjiman"
+      },
+      {
+        "q": "Tahun berapa Sumpah Pemuda diikrarkan?",
+        "a": "1928"
+      },
+      {
+        "q": "Siapa pahlawan nasional dari Sumatera Barat?",
+        "a": "tuanku imam bonjol"
+      },
+      {
+        "q": "Apa nama kerajaan Islam pertama di Indonesia?",
+        "a": "samudra pasai"
+      },
+      {
+        "q": "Siapa sultan pertama Kesultanan Aceh?",
+        "a": "ali mughayat syah"
+      },
+      {
+        "q": "Tahun berapa Perang Banjar berakhir?",
+        "a": "1905"
+      },
+      {
+        "q": "Siapa pahlawan nasional dari Nusa Tenggara Timur?",
+        "a": "el tari"
+      }
+    ]
+  },
+  "seni": {
+    "easy": [
+      {
+        "q": "Pelukis Mona Lisa?",
+        "a": "leonardo da vinci"
+      },
+      {
+        "q": "Komposer musik 'Für Elise'?",
+        "a": "beethoven"
+      },
+      {
+        "q": "Pencipta lagu 'Bengawan Solo'?",
+        "a": "gesang"
+      },
+      {
+        "q": "Tarian tradisional Bali?",
+        "a": "kecak"
+      },
+      {
+        "q": "Alat musik tradisional Jawa?",
+        "a": "gamelan"
+      },
+      {
+        "q": "Pelukis Indonesia terkenal?",
+        "a": "raden saleh"
+      },
+      {
+        "q": "Penyanyi legenda Indonesia?",
+        "a": "koes plus"
+      },
+      {
+        "q": "Wayang kulit berasal dari?",
+        "a": "jawa"
+      },
+      {
+        "q": "Batik berasal dari?",
+        "a": "indonesia"
+      },
+      {
+        "q": "Pencipta lagu 'Halo-halo Bandung'?",
+        "a": "ismail marzuki"
+      }
+    ],
+    "normal": [
+      {
+        "q": "Pelukis 'Potret Diri dengan Topi'?",
+        "a": "vincent van gogh"
+      },
+      {
+        "q": "Komposer 'Swan Lake'?",
+        "a": "pyotr ilyich tchaikovsky"
+      },
+      {
+        "q": "Pencipta lagu 'Indonesia Pusaka'?",
+        "a": "ismail marzuki"
+      },
+      {
+        "q": "Tari Saman dari?",
+        "a": "aceh"
+      },
+      {
+        "q": "Tari Piring dari?",
+        "a": "sumatera barat"
+      },
+      {
+        "q": "Siapa pelukis aliran naturalisme terkenal?",
+        "a": "basuki abdullah"
+      },
+      {
+        "q": "Apa nama alat musik petik tradisional Jepang?",
+        "a": "koto"
+      },
+      {
+        "q": "Siapa komposer 'The Marriage of Figaro'?",
+        "a": "mozart"
+      },
+      {
+        "q": "Tari Kecak menceritakan tentang apa?",
+        "a": "ramayana"
+      },
+      {
+        "q": "Apa nama seni bela diri tradisional Korea?",
+        "a": "taekwondo"
+      },
+      {
+        "q": "Siapa pencipta lagu 'Rayuan Pulau Kelapa'?",
+        "a": "ismail marzuki"
+      },
+      {
+        "q": "Apa nama alat musik tiup tradisional Sunda?",
+        "a": "angklung"
+      },
+      {
+        "q": "Siapa pelukis 'The Starry Night'?",
+        "a": "vincent van gogh"
+      },
+      {
+        "q": "Tari Tortor berasal dari?",
+        "a": "sumatera utara"
+      },
+      {
+        "q": "Apa nama teater tradisional Jepang?",
+        "a": "kabuki"
+      }
+    ],
+    "hard": [
+      {
+        "q": "Pelukis 'The Scream'?",
+        "a": "edvard munch"
+      },
+      {
+        "q": "Komposer 'The Four Seasons'?",
+        "a": "antonio vivaldi"
+      },
+      {
+        "q": "Pencipta lagu 'Gugur Bunga'?",
+        "a": "ismail marzuki"
+      },
+      {
+        "q": "Tari Seudati dari?",
+        "a": "aceh"
+      },
+      {
+        "q": "Siapa pelukis aliran kubisme terkenal?",
+        "a": "pablo picasso"
+      },
+      {
+        "q": "Apa nama aliran seni yang menggambarkan mimpi?",
+        "a": "surrealisme"
+      },
+      {
+        "q": "Siapa komposer 'Requiem in D minor'?",
+        "a": "mozart"
+      },
+      {
+        "q": "Tari Pendet berasal dari?",
+        "a": "bali"
+      },
+      {
+        "q": "Apa nama alat musik gesek tradisional China?",
+        "a": "erhu"
+      },
+      {
+        "q": "Siapa pencipta lagu 'Keroncong Kemayoran'?",
+        "a": "ismail marzuki"
+      },
+      {
+        "q": "Apa nama seni ukir tradisional Jepang?",
+        "a": "netsuke"
+      },
+      {
+        "q": "Siapa pelukis 'The Persistence of Memory'?",
+        "a": "salvador dali"
+      },
+      {
+        "q": "Tari Ma'badong berasal dari?",
+        "a": "sulawesi selatan"
+      },
+      {
+        "q": "Apa nama teater tradisional Korea?",
+        "a": "pansori"
+      },
+      {
+        "q": "Siapa komposer 'Bolero'?",
+        "a": "maurice ravel"
+      },
+      {
+        "q": "Apa nama aliran seni yang menekankan garis tegas?",
+        "a": "art nouveau"
+      },
+      {
+        "q": "Siapa pencipta lagu 'Malam Kembang Ylang'?",
+        "a": "ismail marzuki"
+      },
+      {
+        "q": "Tari Gandrung berasal dari?",
+        "a": "banyuwangi"
+      },
+      {
+        "q": "Apa nama alat musik pukul tradisional Filipina?",
+        "a": "kulintang"
+      },
+      {
+        "q": "Siapa pelukis 'Girl with a Pearl Earring'?",
+        "a": "johannes vermeer"
+      },
+      {
+        "q": "Apa nama seni melipat kertas Jepang?",
+        "a": "origami"
+      },
+      {
+        "q": "Siapa komposer 'Clair de Lune'?",
+        "a": "claude debussy"
+      },
+      {
+        "q": "Tari Jaipong berasal dari?",
+        "a": "jawa barat"
+      },
+      {
+        "q": "Apa nama aliran seni yang menggambarkan kehidupan sehari-hari?",
+        "a": "realisme"
+      }
+    ]
+  },
+  "sains": {
+    "easy": [
+      {
+        "q": "Planet terdekat dari matahari?",
+        "a": "merkuri"
+      },
+      {
+        "q": "Planet terbesar di tata surya?",
+        "a": "jupiter"
+      },
+      {
+        "q": "Satelit alami bumi?",
+        "a": "bulan"
+      },
+      {
+        "q": "Penemu gravitasi?",
+        "a": "isaac newton"
+      },
+      {
+        "q": "Penemu teori relativitas?",
+        "a": "albert einstein"
+      },
+      {
+        "q": "Unsur kimia O?",
+        "a": "oksigen"
+      },
+      {
+        "q": "Unsur kimia H?",
+        "a": "hidrogen"
+      },
+      {
+        "q": "Jumlah planet di tata surya?",
+        "a": "8"
+      },
+      {
+        "q": "Tumbuhan membuat makanan melalui?",
+        "a": "fotosintesis"
+      },
+      {
+        "q": "Bagian sel yang mengatur aktivitas?",
+        "a": "inti sel"
+      }
+    ],
+    "normal": [
+      {
+        "q": "Rumus kimia air?",
+        "a": "h2o"
+      },
+      {
+        "q": "Rumus kimia garam dapur?",
+        "a": "nacl"
+      },
+      {
+        "q": "Penemu sel?",
+        "a": "robert hooke"
+      },
+      {
+        "q": "Penemu penisilin?",
+        "a": "alexander fleming"
+      },
+      {
+        "q": "Penemu vaksin cacar?",
+        "a": "edward jenner"
+      },
+      {
+        "q": "Apa fungsi mitokondria?",
+        "a": "respirasi sel"
+      },
+      {
+        "q": "Apa yang dimaksud dengan fotosintesis?",
+        "a": "proses pembuatan makanan"
+      },
+      {
+        "q": "Siapa penemu hukum gerak?",
+        "a": "isaac newton"
+      },
+      {
+        "q": "Apa nama galaksi kita?",
+        "a": "bimasakti"
+      },
+      {
+        "q": "Apa lapisan atmosfer terluar?",
+        "a": "eksosfer"
+      },
+      {
+        "q": "Apa kelenjar terbesar dalam tubuh manusia?",
+        "a": "hati"
+      },
+      {
+        "q": "Apa fungsi ginjal?",
+        "a": "menyaring darah"
+      },
+      {
+        "q": "Siapa penemu listrik?",
+        "a": "michael faraday"
+      },
+      {
+        "q": "Apa satuan kuat arus listrik?",
+        "a": "ampere"
+      },
+      {
+        "q": "Apa yang dimaksud dengan DNA?",
+        "a": "asam deoksiribonukleat"
+      }
+    ],
+    "hard": [
+      {
+        "q": "Rumus kimia metana?",
+        "a": "ch4"
+      },
+      {
+        "q": "Rumus kimia karbon dioksida?",
+        "a": "co2"
+      },
+      {
+        "q": "Penemu sinar-X?",
+        "a": "wilhelm röntgen"
+      },
+      {
+        "q": "Penemu radioaktivitas?",
+        "a": "marie curie"
+      },
+      {
+        "q": "Apa yang dimaksud dengan fisika kuantum?",
+        "a": "fisika partikel"
+      },
+      {
+        "q": "Siapa penemu teori evolusi?",
+        "a": "charles darwin"
+      },
+      {
+        "q": "Apa rumus kimia amonia?",
+        "a": "nh3"
+      },
+      {
+        "q": "Apa yang dimaksud dengan sel punca?",
+        "a": "stem cell"
+      },
+      {
+        "q": "Siapa penemu hukum kekekalan energi?",
+        "a": "james joule"
+      },
+      {
+        "q": "Apa nama partikel subatom bermuatan negatif?",
+        "a": "elektron"
+      },
+      {
+        "q": "Apa yang dimaksud dengan supernova?",
+        "a": "ledakan bintang"
+      },
+      {
+        "q": "Siapa penemu mesin uap?",
+        "a": "james watt"
+      },
+      {
+        "q": "Apa rumus kimia etanol?",
+        "a": "c2h5oh"
+      },
+      {
+        "q": "Apa yang dimaksud dengan black hole?",
+        "a": "lubang hitam"
+      },
+      {
+        "q": "Siapa penemu hukum periodik unsur?",
+        "a": "dmitri mendeleev"
+      },
+      {
+        "q": "Apa nama lapisan ozon?",
+        "a": "stratosfer"
+      },
+      {
+        "q": "Apa yang dimaksud dengan fotovoltaik?",
+        "a": "panel surya"
+      },
+      {
+        "q": "Siapa penemu vaksin polio?",
+        "a": "jonas salk"
+      },
+      {
+        "q": "Apa rumus kimia asam sulfat?",
+        "a": "h2so4"
+      },
+      {
+        "q": "Apa yang dimaksud dengan kloning?",
+        "a": "penggandaan genetik"
+      },
+      {
+        "q": "Siapa penemu sinar katoda?",
+        "a": "j.j thomson"
+      },
+      {
+        "q": "Apa nama planet kerdil di tata surya?",
+        "a": "pluto"
+      },
+      {
+        "q": "Apa yang dimaksud dengan fusi nuklir?",
+        "a": "penggabungan inti"
+      },
+      {
+        "q": "Siapa penemu hukum Pascal?",
+        "a": "blaise pascal"
+      },
+      {
+        "q": "Apa rumus kimia glukosa?",
+        "a": "c6h12o6"
+      }
+    ]
+  },
+  "game": {
+    "easy": [
+      {
+        "q": "Karakter utama Minecraft?",
+        "a": "steve"
+      },
+      {
+        "q": "Karakter utama Super Mario?",
+        "a": "mario"
+      },
+      {
+        "q": "Karakter utama Pokemon?",
+        "a": "ash ketchum"
+      },
+      {
+        "q": "Game balapan terkenal?",
+        "a": "need for speed"
+      },
+      {
+        "q": "Game battle royale terkenal?",
+        "a": "fortnite"
+      },
+      {
+        "q": "Karakter dengan pedang besar?",
+        "a": "cloud strife"
+      },
+      {
+        "q": "Game petualangan blok?",
+        "a": "minecraft"
+      },
+      {
+        "q": "Karakter berwarna biru cepat?",
+        "a": "sonic"
+      },
+      {
+        "q": "Karakter ninja di Naruto?",
+        "a": "naruto uzumaki"
+      },
+      {
+        "q": "Karakter bajak laut di One Piece?",
+        "a": "monkey d luffy"
+      }
+    ],
+    "normal": [
+      {
+        "q": "Developer game GTA V?",
+        "a": "rockstar games"
+      },
+      {
+        "q": "Developer game Minecraft?",
+        "a": "mojang"
+      },
+      {
+        "q": "Developer game Fortnite?",
+        "a": "epic games"
+      },
+      {
+        "q": "Karakter dengan Sharingan di Naruto?",
+        "a": "sasuke uchiha"
+      },
+      {
+        "q": "Karakter dengan pedang di One Piece?",
+        "a": "roronoa zoro"
+      },
+      {
+        "q": "Game apa yang dirilis tahun 2017 dengan karakter Joker?",
+        "a": "persona 5"
+      },
+      {
+        "q": "Siapa karakter utama The Legend of Zelda?",
+        "a": "link"
+      },
+      {
+        "q": "Game apa yang berlatar di kota Los Santos?",
+        "a": "gta v"
+      },
+      {
+        "q": "Karakter apa yang terkenal dengan kostum merah di Super Mario?",
+        "a": "luigi"
+      },
+      {
+        "q": "Game apa yang menggunakan kata 'Victory Royale'?",
+        "a": "fortnite"
+      },
+      {
+        "q": "Siapa developer game 'The Witcher 3'?",
+        "a": "cd projekt red"
+      },
+      {
+        "q": "Karakter apa yang memiliki kemampuan 'Bankai' di Bleach?",
+        "a": "ichigo"
+      },
+      {
+        "q": "Game apa yang dirilis tahun 2020 dengan karakter utama Jin Sakai?",
+        "a": "ghost of tsushima"
+      },
+      {
+        "q": "Siapa pencipta game 'Metal Gear Solid'?",
+        "a": "hideo kojima"
+      },
+      {
+        "q": "Game apa yang berlatar di dunia Hyrule?",
+        "a": "zelda"
+      }
+    ],
+    "hard": [
+      {
+        "q": "Tahun rilis Minecraft?",
+        "a": "2011"
+      },
+      {
+        "q": "Tahun rilis GTA V?",
+        "a": "2013"
+      },
+      {
+        "q": "Developer game Dark Souls?",
+        "a": "fromsoftware"
+      },
+      {
+        "q": "Karakter dengan Byakugan di Naruto?",
+        "a": "neji hyuga"
+      },
+      {
+        "q": "Siapa nama asli karakter 'Zero' dari game Drakengard?",
+        "a": "zero"
+      },
+      {
+        "q": "Game apa yang menggunakan mesin Frostbite Engine?",
+        "a": "battlefield"
+      },
+      {
+        "q": "Siapa karakter utama di game 'Nier: Automata'?",
+        "a": "2b"
+      },
+      {
+        "q": "Tahun rilis game 'The Last of Us'?",
+        "a": "2013"
+      },
+      {
+        "q": "Developer game 'Bloodborne'?",
+        "a": "fromsoftware"
+      },
+      {
+        "q": "Siapa nama karakter utama di game 'Devil May Cry'?",
+        "a": "dante"
+      },
+      {
+        "q": "Game apa yang berlatar di kota Raccoon City?",
+        "a": "resident evil"
+      },
+      {
+        "q": "Siapa pencipta game 'Final Fantasy'?",
+        "a": "hironobu sakaguchi"
+      },
+      {
+        "q": "Tahun rilis game 'Super Mario 64'?",
+        "a": "1996"
+      },
+      {
+        "q": "Developer game 'Half-Life'?",
+        "a": "valve"
+      },
+      {
+        "q": "Siapa karakter antagonis utama di game 'Portal'?",
+        "a": "glados"
+      },
+      {
+        "q": "Game apa yang menggunakan jargon 'The cake is a lie'?",
+        "a": "portal"
+      },
+      {
+        "q": "Tahun rilis game 'Pac-Man'?",
+        "a": "1980"
+      },
+      {
+        "q": "Developer game 'Street Fighter II'?",
+        "a": "capcom"
+      },
+      {
+        "q": "Siapa karakter utama di game 'Bayonetta'?",
+        "a": "bayonetta"
+      },
+      {
+        "q": "Game apa yang berlatar di pulau Cinnamoroll?",
+        "a": "animal crossing"
+      },
+      {
+        "q": "Siapa developer game 'Stardew Valley'?",
+        "a": "concernedape"
+      },
+      {
+        "q": "Tahun rilis game 'Halo: Combat Evolved'?",
+        "a": "2001"
+      },
+      {
+        "q": "Developer game 'God of War' (2018)?",
+        "a": "sony santa monica"
+      },
+      {
+        "q": "Siapa karakter utama di game 'Horizon Zero Dawn'?",
+        "a": "aloy"
+      },
+      {
+        "q": "Game apa yang menggunakan sistem 'Nemesis'?",
+        "a": "shadow of mordor"
+      }
+    ]
+  }
+}

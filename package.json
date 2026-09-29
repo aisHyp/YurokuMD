@@ -1,0 +1,59 @@
+{
+  "name": "Yuroku-MD",
+  "version": "1.1.0",
+  "description": "Bot whatsapp Yuroku-MD by saurus",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "rebuild-native": "npm rebuild better-sqlite3 canvas sharp"
+  },
+  "allowScripts": {
+    "@biomejs/biome": true,
+    "@ffmpeg-installer/linux-x64": true,
+    "better-sqlite3": true,
+    "canvas": true,
+    "protobufjs": true,
+    "sharp": true
+  },
+  "author": "Lord Saurus",
+  "license": "MIT",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "luoxy-baileys": "^7.1.1",
+    "awesome-phonenumber": "^7.6.0",
+    "axios": "^1.13.2",
+    "better-sqlite3": "^12.6.0",
+    "canvas": "3.1.2",
+    "chalk": "^5.6.2",
+    "cheerio": "^1.1.2",
+    "cloudku-uploader": "latest",
+    "figlet": "^1.9.4",
+    "file-type": "^21.3.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "form-data": "^4.0.5",
+    "fs-extra": "^11.3.3",
+    "got-scraping": "^4.0.6",
+    "gradient-string": "^3.0.0",
+    "javascript-obfuscator": "^4.1.1",
+    "lodash": "^4.17.21",
+    "lowdb": "^7.0.1",
+    "moment-timezone": "^0.6.0",
+    "mongoose": "^9.1.3",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^3.3.2",
+    "node-webpmux": "^3.2.1",
+    "parse-ms": "^4.0.0",
+    "pino": "^10.1.1",
+    "qrcode": "^1.5.4",
+    "scrape-primbon": "^1.1.0",
+    "sharp": "^0.33.5",
+    "writecanvas": "^1.0.0",
+    "yargs": "^18.0.0",
+    "yt-search": "^2.12.1",
+    "ytmusic-api": "^5.3.0"
+  },
+  "devDependencies": {
+    "depcheck": "^1.4.7"
+  }
+}
