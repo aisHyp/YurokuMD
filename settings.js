@@ -19,12 +19,12 @@ global.ownernumber = '62895639043495'
 global.ownername = 'Saurus'
 
 global.namabot = "Yuroku MD"
-global.nomorbot = '66961653473'
+global.nomorbot = '62895639043495'
 global.pair = "YUROKUMD"
 global.version = '1.1'
 global.prefix = '°zZ#$@+,.?=\'\'():√%!¢£¥€π¤ΠΦ&><`™©®Δ^βα¦|/\\©^'
 
-global.owneronly = false
+global.owneronly = true
 global.autojoingc = false
 global.autoreadsw = false
 global.autoread = false
